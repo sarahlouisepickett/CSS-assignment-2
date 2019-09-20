@@ -62,7 +62,7 @@ footer {
 
 header {
   padding: .5rem;
-  margin: 0;
+  margin: 0 1rem;
   margin-bottom: 1rem;
   color: #fff;
   display: flex;
@@ -82,7 +82,7 @@ nav ul li {
   margin: 0;
   margin-left: 1rem;
   font-size: 1.5rem;
-  letter-spacing: 1.5px
+  letter-spacing: 1.5px;
 }
 
 #cougar {
@@ -90,11 +90,13 @@ nav ul li {
 }
 
 #lion{
-  background: #ffd5ae
+  background: #ffd5ae;
+  color: #000;
 }
 
 #tiger {
   background: #FFBD82;
+  color: #000;
 }
 
 
@@ -129,9 +131,7 @@ nav a {
 #tiger .photo a {
   color: #c242f5;
 */
-#cougar a {
-  color: #fff;
-}
+
 
 
 a {
